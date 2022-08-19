@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+p {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.868);
+    display: block;
+    color: white;
+}
+
+.animation {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.868);
+}
+
+img {
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid rgb(66, 66, 66);
+    border-radius: 4px;
+}
